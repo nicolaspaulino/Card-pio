@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRODUTOS>
+    <PRODUTO>
+        <TIPO>SALGADO</TIPO>
+        <DESCRI>COXINHA DE FRANGO</DESCRI>
+        <PRICE>6.00</PRICE>
+    </PRODUTO>
+    <PRODUTO>
+        <TIPO>SALGADO</TIPO>
+        <DESCRI>PÃO DE BATATA</DESCRI>
+        <PRICE>10.00</PRICE>
+    </PRODUTO>
+    <PRODUTO>
+        <TIPO>SALGADO</TIPO>
+        <DESCRI>PORÇÃO DE BATATAS FRITAS(300g)</DESCRI>
+        <PRICE>16.00</PRICE>
+    </PRODUTO>
+    <PRODUTO>
+        <TIPO>DOCE</TIPO>
+        <DESCRI>CHURROS</DESCRI>
+        <PRICE>8.00</PRICE>
+    </PRODUTO>
+    <PRODUTO>
+        <TIPO>BEBIDA</TIPO>
+        <DESCRI>SUCO DE LARANJA(JARRA 300ml)</DESCRI>
+        <PRICE>15.00</PRICE>
+    </PRODUTO>
+</PRODUTOS>
